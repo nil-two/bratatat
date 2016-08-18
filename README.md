@@ -3,6 +3,16 @@ bratatat
 
 Do something 3 times.
 
+```go
+bratatat.Do(func() {
+	fmt.Println("BRATATAT!")
+})
+// Output:
+// BRATATAT!
+// BRATATAT!
+// BRATATAT!
+```
+
 License
 -------
 
