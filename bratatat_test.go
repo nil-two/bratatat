@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nil2nekoni/bratatat"
+	"github.com/nil-two/bratatat"
 )
 
 func TestDo(t *testing.T) {
